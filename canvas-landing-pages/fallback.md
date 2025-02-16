@@ -1,22 +1,15 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">VPC Design Lab</span>
 </h1>
-
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this hands-on lab, you'll learn how to design a secure and scalable Virtual Private Cloud (VPC) on AWS. You'll start by researching VPC design best practices, understanding key concepts like subnets, routing, and security groups. Then, you'll apply this knowledge to plan and diagram your own basic VPC architecture, creating a visual representation of your design using draw.io.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md)
+- [Understanding VPCs and Design Best Practices](../understanding-and-best-practices/README.md)
+- [Planning Your VPC Architecture](../planning-vpc-architecture/README.md)
+- [Creating Your VPC Diagram](../creating-vpc-diagram/README.md)
