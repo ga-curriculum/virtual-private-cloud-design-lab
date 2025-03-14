@@ -23,7 +23,7 @@ In short, a diagram is a powerful tool for turning your VPC plan into a tangible
 
 ## Using draw.io
 
-For this exercise, we'll be using [draw.io](draw.io). Draw.io has a wide variety of shapes and icons perfect for illustrating cloud architectures.
+For this exercise, we'll be using [draw.io](https://draw.io). Draw.io has a wide variety of shapes and icons perfect for illustrating cloud architectures.
 
 The shape library on the left is where you can find VPC components like subnets, gateways, and instances.
 You may want to add the AWS specific pack to draw your VPC.

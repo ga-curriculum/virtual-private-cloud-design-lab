@@ -17,4 +17,4 @@ Finally, you'll apply this knowledge to plan and diagram a basic VPC architectur
 
 ## Rubric
 
-[Rubric](./rubrics/itb.md)
+[Rubric](../rubrics/itb.md)

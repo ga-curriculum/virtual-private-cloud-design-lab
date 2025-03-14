@@ -18,4 +18,4 @@ Finally, you'll apply this knowledge to plan and diagram a basic VPC architectur
 
 ## Rubric
 
-[Rubric](./rubrics/fallback.md)
+[Rubric](../rubrics/fallback.md)
