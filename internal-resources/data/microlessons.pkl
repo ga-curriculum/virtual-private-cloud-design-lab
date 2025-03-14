@@ -2,24 +2,23 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-understandingAndBestPractices = new Template.Microlesson {
-  friendlyName = "Understanding VPCs and Design Best Practices"
-  dirName = "understanding-and-best-practices"
+vpcConceptsAndBestPractices = new Template.Microlesson {
+  friendlyName = "VPC Concepts and Best Practices"
+  dirName = "vpc-concepts-and-best-practices"
   type = "Content"
   videoUrl = ""
 }
 
-planningVpcArchitecture = new Template.Microlesson {
-  friendlyName = "Planning Your VPC Architecture"
-  dirName = "planning-vpc-architecture"
+planVpcArchitecture = new Template.Microlesson {
+  friendlyName = "Plan VPC Architecture"
+  dirName = "plan-vpc-architecture"
   type = "Content"
   videoUrl = ""
 }
 
-creatingVpcDiagram = new Template.Microlesson {
-  friendlyName = "Creating Your VPC Diagram"
-  dirName = "creating-vpc-diagram"
+createAVpcDiagram = new Template.Microlesson {
+  friendlyName = "Create a VPC Diagram"
+  dirName = "create-a-vpc-diagram"
   type = "Content"
   videoUrl = ""
 }
-

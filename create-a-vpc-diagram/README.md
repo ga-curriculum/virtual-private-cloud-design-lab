@@ -1,6 +1,6 @@
   <h1>
-    <span class="headline">VPC Design Lab</span>
-    <span class="subhead">Creating Your VPC Diagram</span>
+    <span class="headline">Virtual Private Cloud Design Lab</span>
+    <span class="subhead">Create a VPC Diagram</span>
   </h1>
 
 Now it's time to visualize your design by creating a diagram!

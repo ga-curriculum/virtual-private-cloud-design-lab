@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">VPC Design Lab</span>
-  <span class="subhead">Understanding VPCs and Design Best Practices</span>
+  <span class="headline">Virtual Private Cloud Design Lab</span>
+  <span class="subhead">VPC Concepts and Best Practices</span>
 </h1>
 
 ## Setup

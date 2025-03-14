@@ -12,30 +12,30 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "VPC Design Lab"
+  friendlyName = "Virtual Private Cloud Design Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "vpc-design-lab"
+  name = "virtual-private-cloud-design-lab"
   type = "Lab"
 }
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.vpcConceptsAndBestPractices
+      mls.planVpcArchitecture
+      mls.createAVpcDiagram
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.understandingAndBestPractices
-      mls.planningVpcArchitecture
-      mls.creatingVpcDiagram
-    }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.understandingAndBestPractices
-      mls.planningVpcArchitecture
-      mls.creatingVpcDiagram
+      mls.vpcConceptsAndBestPractices
+      mls.planVpcArchitecture
+      mls.createAVpcDiagram
     }
   }
 }

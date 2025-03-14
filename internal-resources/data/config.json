@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "VPC Design Lab",
-    "name": "vpc-design-lab",
+    "friendlyName": "Virtual Private Cloud Design Lab",
+    "name": "virtual-private-cloud-design-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Understanding VPCs and Design Best Practices",
-          "dirName": "understanding-and-best-practices",
+          "friendlyName": "VPC Concepts and Best Practices",
+          "dirName": "vpc-concepts-and-best-practices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Planning Your VPC Architecture",
-          "dirName": "planning-vpc-architecture",
+          "friendlyName": "Plan VPC Architecture",
+          "dirName": "plan-vpc-architecture",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Creating Your VPC Diagram",
-          "dirName": "creating-vpc-diagram",
+          "friendlyName": "Create a VPC Diagram",
+          "dirName": "create-a-vpc-diagram",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -73,14 +73,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Understanding VPCs and Design Best Practices",
-          "dirName": "understanding-and-best-practices",
+          "friendlyName": "VPC Concepts and Best Practices",
+          "dirName": "vpc-concepts-and-best-practices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,8 +89,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Planning Your VPC Architecture",
-          "dirName": "planning-vpc-architecture",
+          "friendlyName": "Plan VPC Architecture",
+          "dirName": "plan-vpc-architecture",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Creating Your VPC Diagram",
-          "dirName": "creating-vpc-diagram",
+          "friendlyName": "Create a VPC Diagram",
+          "dirName": "create-a-vpc-diagram",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

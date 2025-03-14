@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">VPC Design Lab</span>
-  <span class="subhead">Planning Your VPC Architecture</span>
+  <span class="headline">Virtual Private Cloud Design Lab</span>
+  <span class="subhead">Plan VPC Architecture</span>
 </h1>
 
 Now that you have a solid understanding of VPCs and have researched design best practices, it's time to start planning your own VPC architecture!

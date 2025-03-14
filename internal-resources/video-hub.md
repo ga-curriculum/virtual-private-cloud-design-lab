@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">VPC Design Lab</span>
+  <span class="headline">Virtual Private Cloud Design Lab</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

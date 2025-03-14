@@ -1,17 +1,24 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">VPC Design Lab</span>
+  <span class="headline">Virtual Private Cloud Design Lab</span>
 </h1>
 
 ## About
 
-In this hands-on lab, you'll learn how to design a secure and scalable Virtual Private Cloud (VPC) on AWS. You'll start by researching VPC design best practices, understanding key concepts like subnets, routing, and security groups. Then, you'll apply this knowledge to plan and diagram your own basic VPC architecture, creating a visual representation of your design using draw.io.
+In this hands-on lab, you'll learn how to design a secure and scalable Virtual Private Cloud (VPC) on AWS. You'll start by researching VPC design best practices, and learning about key concepts like subnets, routing, and security groups.
+
+Finally, you'll apply this knowledge to plan and diagram a basic VPC architecture, creating a visual representation of your design using [draw.io](https://draw.io).
 
 ## Content
 
-- [Understanding VPCs and Design Best Practices](./understanding-and-best-practices/README.md)
-- [Planning Your VPC Architecture](./planning-vpc-architecture/README.md)
-- [Creating Your VPC Diagram](./creating-vpc-diagram/README.md)
+- [VPC Concepts and Best Practices](./vpc-concepts-and-best-practices/README.md)
+- [Plan VPC Architecture](./plan-vpc-architecture/README.md)
+- [Create a VPC Diagram](./create-a-vpc-diagram/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
@@ -25,8 +32,8 @@ Estimated time to complete core lab exercise: **60 min**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/vpc-design-lab/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/vpc-design-lab/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/virtual-private-cloud-design-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/virtual-private-cloud-design-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
