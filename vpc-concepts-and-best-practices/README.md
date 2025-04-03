@@ -3,6 +3,8 @@
   <span class="subhead">VPC Concepts and Best Practices</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to identify VPC design best practices.
+
 ## What is a VPC?
 
 In this lab, you'll explore the world of cloud networking and design a Virtual Private Cloud (VPC) architecture.

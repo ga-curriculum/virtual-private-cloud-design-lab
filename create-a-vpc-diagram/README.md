@@ -1,7 +1,9 @@
-  <h1>
-    <span class="headline">Virtual Private Cloud Design Lab</span>
-    <span class="subhead">Create a VPC Diagram</span>
-  </h1>
+<h1>
+  <span class="headline">Virtual Private Cloud Design Lab</span>
+  <span class="subhead">Create a VPC Diagram</span>
+</h1>
+
+**Learning objective:** By the end of this exercise, students will be able to create a VPC diagram based on an architecture plan.
 
 ## Why diagram?
 

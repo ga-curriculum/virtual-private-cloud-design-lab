@@ -3,6 +3,8 @@
   <span class="subhead">Plan VPC Architecture</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to plan a VPC architecture based on design best practices.
+
 ## Scenario
 
 Now that you have a solid understanding of VPCs and have researched design best practices, it's time to start planning your VPC architecture!
